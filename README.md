@@ -1,3 +1,7 @@
+# ESTA RAMA ES PARA DEJARLA MUERTA DESDE EL PRINCIPIO
+
+# ---@ SÓLO **INSTRUCCIONES** @@---
+
 # Enreos
 Repositorio para practicar 
 - **MarkDown**
