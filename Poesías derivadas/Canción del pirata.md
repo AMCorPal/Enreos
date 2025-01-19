@@ -1,9 +1,9 @@
 # [Canción del Pirata](https://es.wikipedia.org/wiki/Canci%C3%B3n_del_pirata)
 ## Autor: Espronceda
-Con diez cañones por banda,
-viento en popa a toda vela,
-no corta el mar, sino vuela
-un velero bergantín;
+Con diez lotes de champú por banda,
+pelo al viento a toda vela,
+se acabó la bombona, jo qué pena
+me cae hielo que hace clín;
 
 bajel pirata que llaman,
 por su bravura, el Temido,
